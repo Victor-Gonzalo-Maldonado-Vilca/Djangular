@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,12 +785,12 @@ Overfull \hbox (0.89597pt too wide) in paragraph at lines 155--163
 [][] 
  []
 
-<img/logo_episunsa.png, id=94, 195.73125pt x 58.2175pt>
+<img/logo_episunsa.png, id=102, 195.73125pt x 58.2175pt>
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
 Package pdftex.def Info: img/logo_episunsa.png  used on input line 196.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-<img/logo_abet.png, id=95, 58.2175pt x 65.24374pt>
+<img/logo_abet.png, id=103, 58.2175pt x 65.24374pt>
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
 Package pdftex.def Info: img/logo_abet.png  used on input line 196.
@@ -806,21 +806,142 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [1{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./img/logo_episunsa.png> <./img/logo_abet.png>]
+<img/admin.png, id=121, 1147.8885pt x 548.0475pt>
+File: img/admin.png Graphic file (type png)
+<use img/admin.png>
+Package pdftex.def Info: img/admin.png  used on input line 224.
+(pdftex.def)             Requested size: 443.57848pt x 211.78082pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 224--225
+ [][] 
+ []
+
+<img/adminAddMovie.png, id=122, 1145.4795pt x 548.0475pt>
+File: img/adminAddMovie.png Graphic file (type png)
+<use img/adminAddMovie.png>
+Package pdftex.def Info: img/adminAddMovie.png  used on input line 229.
+(pdftex.def)             Requested size: 443.57848pt x 212.22404pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 229--230
+ [][] 
+ []
+
+<img/adminMovies.png, id=123, 1151.502pt x 554.67226pt>
+File: img/adminMovies.png Graphic file (type png)
+<use img/adminMovies.png>
+Package pdftex.def Info: img/adminMovies.png  used on input line 234.
+(pdftex.def)             Requested size: 443.57848pt x 213.6722pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 236.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 236.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[2 <./img/admin.png>]
+<img/ApiRoot.png, id=131, 1144.275pt x 551.661pt>
+File: img/ApiRoot.png Graphic file (type png)
+<use img/ApiRoot.png>
+Package pdftex.def Info: img/ApiRoot.png  used on input line 239.
+(pdftex.def)             Requested size: 443.57848pt x 213.8506pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 239--240
+ [][] 
+ []
+
+<img/ApiMovieList.png, id=132, 1141.26375pt x 545.6385pt>
+File: img/ApiMovieList.png Graphic file (type png)
+<use img/ApiMovieList.png>
+Package pdftex.def Info: img/ApiMovieList.png  used on input line 244.
+(pdftex.def)             Requested size: 443.57848pt x 212.0738pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 246.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 246.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[3 <./img/adminAddMovie.png> <./img/adminMovies.png>]
+<img/consola.png, id=141, 483.0045pt x 199.947pt>
+File: img/consola.png Graphic file (type png)
+<use img/consola.png>
+Package pdftex.def Info: img/consola.png  used on input line 250.
+(pdftex.def)             Requested size: 443.57848pt x 183.62701pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 250--251
+ [][] 
+ []
+
+<img/ejecucionAngular.png, id=142, 669.09975pt x 278.2395pt>
+File: img/ejecucionAngular.png Graphic file (type png)
+<use img/ejecucionAngular.png>
+Package pdftex.def Info: img/ejecucionAngular.png  used on input line 255.
+(pdftex.def)             Requested size: 443.57848pt x 184.45802pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 255--256
+ [][] 
+ []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 257.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 257.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[4 <./img/ApiRoot.png> <./img/ApiMovieList.png>]
 (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-Overfull \hbox (9.60602pt too wide) in paragraph at lines 226--229
+Overfull \hbox (9.60602pt too wide) in paragraph at lines 263--266
 []\OT1/cmr/bx/n/10 INSTALLED[]APPS: \OT1/cmr/m/n/10 Lis-ta las apli-ca-cio-nes 
 ins-ta-la-das en Djan-go, in-clu-yen-do api, rest[]framework,
  []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 251.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 271.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 251.
+Package pdftex.def Info: img/logo_abet.png  used on input line 271.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -830,82 +951,16 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[2]
+[5 <./img/consola.png> <./img/ejecucionAngular.png>]
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 300.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 322.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 300.
+Package pdftex.def Info: img/logo_abet.png  used on input line 322.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.51407pt, for example:
-(fancyhdr)                \setlength{\headheight}{40.51407pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
-
-[3]
-File: img/logo_episunsa.png Graphic file (type png)
-<use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 357.
-(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-File: img/logo_abet.png Graphic file (type png)
-<use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 357.
-(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.51407pt, for example:
-(fancyhdr)                \setlength{\headheight}{40.51407pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
-
-[4]
-(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 388.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 388.
-File: img/logo_episunsa.png Graphic file (type png)
-<use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 400.
-(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-File: img/logo_abet.png Graphic file (type png)
-<use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 400.
-(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
-
-
-Package fancyhdr Warning: \headheight is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.51407pt, for example:
-(fancyhdr)                \setlength{\headheight}{40.51407pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
-
-[5]
-(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
-)
-(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-)
-File: img/logo_episunsa.png Graphic file (type png)
-<use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 442.
-(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-File: img/logo_abet.png Graphic file (type png)
-<use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 442.
-(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 40.51407pt, for example:
@@ -915,38 +970,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [6]
-Overfull \hbox (5.9124pt too wide) in paragraph at lines 476--476
-[]|\OT1/cmr/m/n/10 Checklist| 
- []
-
-
-Overfull \hbox (4.45987pt too wide) in paragraph at lines 476--476
-[]|\OT1/cmr/m/n/10 Estudiante| 
- []
-
-
-Overfull \hbox (4.7852pt too wide) in paragraph at lines 476--477
-[]|\OT1/cmr/m/n/10 Profesor| 
- []
-
-
-Overfull \hbox (40.32231pt too wide) in paragraph at lines 474--500
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 474--500
-
- []
-
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 505.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 371.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 505.
+Package pdftex.def Info: img/logo_abet.png  used on input line 371.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
 (fancyhdr)                Make it at least 40.51407pt, for example:
@@ -956,13 +988,16 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [7]
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 514.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 424.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 514.
+Package pdftex.def Info: img/logo_abet.png  used on input line 424.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -973,7 +1008,94 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[8] (informe_Djangular.aux
+[8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 426.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 426.
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 479.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 479.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[9]
+Overfull \hbox (5.9124pt too wide) in paragraph at lines 513--513
+[]|\OT1/cmr/m/n/10 Checklist| 
+ []
+
+
+Overfull \hbox (4.45987pt too wide) in paragraph at lines 513--513
+[]|\OT1/cmr/m/n/10 Estudiante| 
+ []
+
+
+Overfull \hbox (4.7852pt too wide) in paragraph at lines 513--514
+[]|\OT1/cmr/m/n/10 Profesor| 
+ []
+
+
+Overfull \hbox (40.32231pt too wide) in paragraph at lines 511--537
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--537
+
+ []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 542.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 542.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[10]
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 555.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 555.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[11] (informe_Djangular.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
@@ -984,16 +1106,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `informe_Djangular.out' has not changed.
-(rerunfilecheck)             Checksum: CDAE8A2CBAD516EBE163305A68C90053;3966.
+(rerunfilecheck)             Checksum: 026818DD0C965086247F656F1BD96784;4167.
  ) 
 Here is how much of TeX's memory you used:
- 18814 strings out of 474486
- 315857 string characters out of 5742811
- 1984542 words of memory out of 5000000
- 40667 multiletter control sequences out of 15000+600000
+ 18882 strings out of 474486
+ 317400 string characters out of 5742811
+ 1980542 words of memory out of 5000000
+ 40723 multiletter control sequences out of 15000+600000
  562468 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,17n,93p,489b,2162s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,17n,93p,489b,2308s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbx12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/t
@@ -1004,9 +1126,9 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Usuario
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Us
 ers/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.
 pfb>
-Output written on informe_Djangular.pdf (8 pages, 191206 bytes).
+Output written on informe_Djangular.pdf (11 pages, 437571 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 142 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 154 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 

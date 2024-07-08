@@ -218,6 +218,43 @@
 
   \section{Desarrollo del trabajo}
   \subsection{Capturas de la Actividad Realizada}
+  \subsubsection{Django}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/admin.png}}
+    \caption{Admin Django}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/adminAddMovie.png}}
+    \caption{Agregando un objeto Movie desde el Admin de Django}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/adminMovies.png}}
+    \caption{Visualización de los objetos Movie Creados}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/ApiRoot.png}}
+    \caption{Api Root}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/ApiMovieList.png}}
+    \caption{Api Movie List}
+  \end{figure}
+  \subsubsection{Angular}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/consola.png}}
+    \caption{Consola -- Obtener datos de la API}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \fbox{\includegraphics[width=1\textwidth, keepaspectratio]{img/ejecucionAngular.png}}
+    \caption{Ejecución -- Angular}
+  \end{figure}
   
   
   \subsection{Django}
@@ -331,6 +368,7 @@
     serializador MovieSerializer se utilizará para convertir los objetos Movie en formatos como 
     JSON, permitiendo así que los datos de las películas se manipulen de manera estructurada y 
     consistente a través de solicitudes HTTP dentro de una API Django.
+    \newpage
     \item \textbf{Código: }
     \begin{lstlisting}[language=python, numbers=left, firstnumber=1, numberstyle=\color{blue}]
     from django.shortcuts import render
@@ -430,7 +468,6 @@
     \item La integración de Django y Angular permite una aplicación web robusta que utiliza Django como backend 
     y Angular como frontend.
     \item Django proporciona una API RESTful que Angular consume para mostrar datos dinámicamente.
-    \item El uso de \texttt{router-outlet} en Angular facilita la navegación y el enrutamiento dentro de la aplicación.
     \item Las listas dinámicas en Angular, como la lista de películas, demuestran la capacidad de Angular para manejar 
     y mostrar datos obtenidos de la API de Django.
     \item Esta combinación de tecnologías permite una separación clara entre el backend y el frontend, facilitando el 
