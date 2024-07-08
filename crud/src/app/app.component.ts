@@ -8,7 +8,7 @@ import { ApiService } from './api.service';
   providers: [ApiService]
 })
 export class AppComponent {
-  movies = [{id:1,title:'peli1',year:2021},{id:2,title:'peli2',year:2022}];
+  movies = [{id:1,title:'peli1',desc:"50%",year:2021},{id:2,title:'peli2', desc:'50%',year:2022}];
   constructor(private api:ApiService) {
     this.getMovies();
   }
